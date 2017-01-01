@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.*;
 
 public class LaundryProgram{
-  public static void main(String[] args){g
+  public static void main(String[] args){
     displayMainMenu();
   }
   
